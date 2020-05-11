@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family:sans-serif;
+    color: blue;
+}
+
+table, tr, td {
+    border: solid black 1px;
+}
+
+h1{
+    text-align: center;
+}
